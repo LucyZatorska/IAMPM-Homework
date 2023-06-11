@@ -1,3 +1,3 @@
 # Heading
 
-Change in file 2 from **Sourcetree**.
+Change in file 2 from **Sourcetree**
